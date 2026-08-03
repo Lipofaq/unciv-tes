@@ -6,12 +6,12 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 17,
-		"cost": 75,
+		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"uniques": ["", "Free promotion: Cover II"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}

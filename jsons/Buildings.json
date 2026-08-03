@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Guilds",
-		"replaces": "Armory",
 		"uniqueTo": "Septim Empire",
+		"replaces": "Armory",
 		"gold": 2,
 		"happiness": 1,
 		"hurryCostModifier": 25,

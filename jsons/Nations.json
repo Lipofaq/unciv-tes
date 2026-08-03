@@ -28,8 +28,8 @@
 		"denounced": "Your actions threaten the peace of Tamriel!",
 		"declaringfriendship": "May our peoples prosper together beneath the light of the Dragonfires!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [122, 27, 37],
+		"innerColor": [212, 175, 55],
 		"uniqueName": "Imperial Bureaucracy",
 		"uniques": ["Gold from all trade routes [+25]%", "[Great Scientist] is earned [-25]% faster", "[-10]% Culture"], 
 		"cities": ["Imperial city","Chorrol","Leyawiin","Anvil","Cheydinhal","Bruma","Kvatch","Bravil","Skingrad","Sutch"]

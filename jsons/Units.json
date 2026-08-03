@@ -6,8 +6,6 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 17,
-		"rangedStrength": 36,
-		"range": 2,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
